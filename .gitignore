@@ -3,6 +3,9 @@
 /.env
 /public/bundles/
 /var/
+!/var/jwt
+/var/jwt/*
+!/var/jwt/.gitkeep
 /vendor/
 ###< symfony/framework-bundle ###
 
